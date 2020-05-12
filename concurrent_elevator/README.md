@@ -1,6 +1,4 @@
 
-
-Jacob Sanchez
 Course Name  : Computer Systems
 Homework  6  : Elevator Simulation
 -------------------------------------------------------------------------------
