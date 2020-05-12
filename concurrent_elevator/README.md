@@ -1,5 +1,5 @@
 
-Course Name  : Computer Systems
+Computer Systems
 Homework  6  : Elevator Simulation
 -------------------------------------------------------------------------------
 
