@@ -41,6 +41,7 @@ manipulated in hw6.h
 working, and memory will be freed.	
 
 ##Testing
+
 The run_tests script tests some useful configurations, and the last test has the configuration used for testing on Gradescope. Your program should be able to pass all the tests. This is to give some type of intermediate testing. The first test is entirely sequential, and there are a couple of tests that are sequential on one type of thread (eg 1 passenger - 4 elevators, 50 passengers - 1 elevator) Further custom testing is also possible. You can play with all these values in hw6.h.
 
 
@@ -51,7 +52,7 @@ Python run_test.py
 To add more logging output, try using the log() function instead of printf. log(loglevel, format_string, parameters) works just like fprintf(stderr,...) except it only prints if the configured log level is higher than the loglevel argument provided. To set the log level to, for example, 8 use the following flag to gcc -DLOGLEVEL=8
 
 
-#References
+##References
 
 http://www.ibm.com/developerworks/linux/library/l-posix1.html?S_TACT=105AGX03&S_CMP=EDU
 http://www.ibm.com/developerworks/linux/library/l-posix2/?S_TACT=105AGX03&S_CMP=EDU
