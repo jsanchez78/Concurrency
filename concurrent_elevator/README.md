@@ -1,4 +1,3 @@
-##Concurrent Elevator Controller
 
 
 Jacob Sanchez
